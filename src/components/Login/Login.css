@@ -41,8 +41,8 @@ button {
 
   body {
     background-color: #e74c3c;
-    animation: bg-color 20s infinite;
-    -webkit-animation: bg-color 20s infinite;
+    animation: bg-color 4s infinite;
+    -webkit-animation: bg-color 4s infinite;
     }
     
     @-webkit-keyframes bg-color {
